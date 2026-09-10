@@ -32,12 +32,12 @@
 
 | Category | Device |
 | :--- | :--- |
-| **PC / Laptop** |  Apple MacBook Air (M1) <br> LG Ultra PC (AMD Ryzen 7 5700U / DDR4 16GB) |
+| **PC / Laptop** |  Apple MacBook Air (M1 / 8GB) <br> LG Ultra PC 2022 (AMD Ryzen 7 5700U / DDR4 16GB) |
 | **Smartphones** |  Apple iPhone 16 <br> Google Pixel 6a |
 | **Tablet** |  Apple iPad (7th Gen) |
 | **Wearable & Audio** |  Apple Watch Series 6 <br>  Apple AirPods 4 (ANC) |
 | **In-Ear Monitors (IEM)** |  Apple EarPods (C-Type) <br> Final Audio E4000 (4.4mm Balanced) <br> Moondrop Chu II (4.4mm Balanced) <br> NICEHCK Octave |
-| **Backup / Standby** |  Apple iPhone SE (2nd Gen) <br>  Apple iPhone 7 |
+| **Backup / Standby** |  Apple iPhone SE (2nd Gen) <br>  Apple iPhone 7 <br>  Apple MacBook Air 2013 (i5 4250U / DDR3 4GB) |
 
 <!--
 ## Hi there 👋
