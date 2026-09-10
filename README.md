@@ -22,7 +22,7 @@
 
 | Category | Device |
 | :--- | :--- |
-| **PC / Laptop** | Apple MacBook Air (M1) <br> LG Ultra PC |
+| **PC / Laptop** | Apple MacBook Air (M1) <br> LG Ultra PC (AMD Ryzen 7 5700U / DDR4 16GB) |
 | **Smartphones** | Apple iPhone 16 <br> Google Pixel 6a |
 | **Tablet** | Apple iPad (7th Gen) |
 | **Wearable & Audio** | Apple Watch Series 6 <br> Apple AirPods 4 (ANC) |
