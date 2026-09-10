@@ -36,6 +36,7 @@
 | **Smartphones** |  Apple iPhone 16 <br> Google Pixel 6a |
 | **Tablet** |  Apple iPad (7th Gen) |
 | **Wearable & Audio** |  Apple Watch Series 6 <br>  Apple AirPods 4 (ANC) |
+| **In-Ear Monitors (IEM)** |  Apple EarPods (C-Type) <br> Final Audio E4000 (4.4mm Balanced) <br> Moondrop Chu II (4.4mm Balanced) <br> NICEHCK Octave |
 
 <!--
 ## Hi there 👋
