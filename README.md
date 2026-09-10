@@ -1,3 +1,6 @@
+![header](https://capsule-render.vercel.app/api?type=wave&height=300&color=gradient&text=Steven%20IT&section=header&reversal=false&textBg=false)
+
+<!--
 ## Hi there 👋
 
 <!--
